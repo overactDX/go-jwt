@@ -2,7 +2,7 @@ package auth
 
 import (
 	"fmt"
-	"melivecode/jwt-api/orm"
+	"overact150/jwt-api/orm"
 	"net/http"
 	"os"
 	"time"
